@@ -1,3 +1,3 @@
-# Websecure
+# Zadmin
 
-Fichiers d'installation de Websecure. Le code source n'est pas public.
+Fichiers d'installation de Zadmin. Le code source n'est pas public.
